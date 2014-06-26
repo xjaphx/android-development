@@ -14,7 +14,7 @@ The comprehensive list of links about tutorials, guides, libraries, resources, o
 - **Android Design Patterns** blog by Alex Lockwood, at [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/)  
 
 ## Libraries
-- (*No further development*) **ActionBarSherlock** by Jake Wharkton, at [http://actionbarsherlock.com/](http://actionbarsherlock.com/) - an extension of the support library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API.
+- (*No further development*) **ActionBarSherlock** by [Jake Wharton](http://jakewharton.com/), at [http://actionbarsherlock.com/](http://actionbarsherlock.com/) - an extension of the support library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API.
 
 ## Design
 - [Official Android Design Guide](http://developer.android.com/design/index.html)
