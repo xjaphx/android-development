@@ -7,6 +7,7 @@ The comprehensive list of links about tutorials, guides, libraries, resources, o
 - [Android Developers API Guide](http://developer.android.com/guide/index.html)
 
 ## Learning
+- Android Newbie blog by [Pete Houston](http://petehouston.com), at [http://xjaphx.wordpress.com/](http://xjaphx.wordpress.com/) - various tutorials on learning Android from ground up as a newbie.
 
 ## Research & Development
 - [The Official Android Developers Blog](http://android-developers.blogspot.com/)
