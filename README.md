@@ -15,6 +15,7 @@ The comprehensive list of links about tutorials, guides, libraries, resources, o
 
 ## Libraries
 - (*No further development*) **ActionBarSherlock** by [Jake Wharton](http://jakewharton.com/), at [http://actionbarsherlock.com/](http://actionbarsherlock.com/) - an extension of the support library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API.
+- Android Arsenal by [Vladislav Bauer](https://github.com/vbauer), at [http://android-arsenal.com/](http://android-arsenal.com/) - A categorized directory of free libraries and tools for Android
 
 ## Design
 - [Official Android Design Guide](http://developer.android.com/design/index.html)
