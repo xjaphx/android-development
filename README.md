@@ -7,18 +7,18 @@ The comprehensive list of links about tutorials, guides, libraries, resources, o
 - [Android Developers API Guide](http://developer.android.com/guide/index.html)
 
 ## Learning
-- Android Newbie blog by [Pete Houston](http://petehouston.com), at [http://xjaphx.wordpress.com/](http://xjaphx.wordpress.com/) - various tutorials on learning Android from ground up as a newbie.
+- **Android Newbie** blog by [Pete Houston](http://petehouston.com), at [http://xjaphx.wordpress.com/](http://xjaphx.wordpress.com/) - various tutorials on learning Android from ground up as a newbie.
 
 ## Research & Development
 - [The Official Android Developers Blog](http://android-developers.blogspot.com/)
-- Android Design Patterns blog by Alex Lockwood, at [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/)  
+- **Android Design Patterns** blog by Alex Lockwood, at [http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/)  
 
 ## Libraries
 
 ## Design
 - [Official Android Design Guide](http://developer.android.com/design/index.html)
 - [Sample Android Design Resources](http://developer.android.com/design/downloads/index.html)
-- Android Patterns at [http://www.androidpatterns.com/](http://www.androidpatterns.com/) - a set of interaction patterns that can help you design Android apps. An interaction pattern is a short hand summary of a design solution that has proven to work more than once.
+- **Android Patterns** at [http://www.androidpatterns.com/](http://www.androidpatterns.com/) - a set of interaction patterns that can help you design Android apps. An interaction pattern is a short hand summary of a design solution that has proven to work more than once.
 
 ## Platform Development
 - [Android Platform Source Information](http://source.android.com/)
