@@ -9,6 +9,7 @@ The comprehensive list of links about tutorials, guides, libraries, resources, o
 ## Learning
 - **Android Newbie** blog by [Pete Houston](http://petehouston.com), at [http://xjaphx.wordpress.com/](http://xjaphx.wordpress.com/) - various tutorials on learning Android from ground up as a newbie.
 - **Android Hive** blog by Ravi Tamada, at [http://www.androidhive.info/](http://www.androidhive.info/) - deep and detailed tutorials on Android.
+- **Vogella**, at [http://www.vogella.com/tutorials/android.html](http://www.vogella.com/tutorials/android.html) - tutorials about development for Android.
 
 ## Research & Development
 - [The Official Android Developers Blog](http://android-developers.blogspot.com/)
